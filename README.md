@@ -2,7 +2,7 @@
 ---
 Experiments codes for the paper:
 
-Chen Lin, Dugang Liu, Xinyi Liu, Hanghang Tong and Yanghua Xiao. Spiral of Silence and Its Application in Recommender Systems. Submitted to TKDE
+Chen Lin, Dugang Liu, Hanghang Tong and Yanghua Xiao. Spiral of Silence and Its Application in Recommender Systems. Submitted to TKDE
 
 <!--**Please cite our TKDE paper if you use our codes. Thanks!**-->
 
